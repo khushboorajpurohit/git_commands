@@ -79,4 +79,7 @@ if a stream is set from local to remote,
 	>git pull (directly pulls and sync remote and local)
 else,
 	>git pull origin master (origin - remote, master - local branch name)
+
+>git fetch (this fetches data from remote and adds to the local, in case of conflict - this points to origin/master whereas the local points
+			to master)
 	

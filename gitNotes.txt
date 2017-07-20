@@ -82,4 +82,5 @@ else,
 
 >git fetch (this fetches data from remote and adds to the local, in case of conflict - this points to origin/master whereas the local points
 			to master)
-	
+
+In case of conflict, solve the conflict after git fetch, commit the change and push it. 

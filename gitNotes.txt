@@ -65,5 +65,8 @@ if conflict,
 
 >git log -n 1 (-n = number of logs to return)
 
+>git remote (shows remotes that are added - repositories on git server like gitHub or bitBucket)
+
+>git remote add <name> <url> (to sync the local repo to a remote repo)
 
 

@@ -69,4 +69,8 @@ if conflict,
 
 >git remote add <name> <url> (to sync the local repo to a remote repo)
 
+>git push origin master (origin - remote name, master - local repo's branch to be pushed)
+
+To set an upstream,
+>git push --set-upstream origin master (sets an upstream from master to origin, after this git push will automatically push from master to origin 											with "git push".)
 

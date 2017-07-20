@@ -1,0 +1,25 @@
+for windows - fc 
+for checking the difference between two files. 
+for linux/mac - diff
+
+these commands show the differenc ebetween two files thereby helping to locate the bug.
+
+also, 
+~/.bashrc (it acts like environment variable in windows.)
+
+>git log (it shows commit history)
+
+>git diff <older version commit id> <newer version commit id> (similar to fc)
+
+>git log --stat (it gives stats along with the logs)
+
+>git config --global color.ui auto (to get diff colorfull. --global makes it global)
+
+>git checkout <commit id>  (this is to get to the state of the files during that commit)
+
+>git config --global core.editor
+					 push.default upstream
+					 merge.conflictstyle diff3
+
+>git init (this initializes a directory as a git repository and make a .git folder which contains the meta data.)
+

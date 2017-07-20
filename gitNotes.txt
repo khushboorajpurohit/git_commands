@@ -74,3 +74,9 @@ if conflict,
 To set an upstream,
 >git push --set-upstream origin master (sets an upstream from master to origin, after this git push will automatically push from master to origin 											with "git push".)
 
+if a stream is set from local to remote,
+
+	>git pull (directly pulls and sync remote and local)
+else,
+	>git pull origin master (origin - remote, master - local branch name)
+	

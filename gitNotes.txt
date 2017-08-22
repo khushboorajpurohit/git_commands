@@ -89,3 +89,5 @@ Pull requests-
 	These can be made from gitHub. 
 
 ###### adding another command to understand commits.
+
+##### commiting from the remote repo

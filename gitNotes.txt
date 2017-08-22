@@ -87,3 +87,5 @@ In case of conflict, solve the conflict after git fetch, commit the change and p
 
 Pull requests-
 	These can be made from gitHub. 
+
+###### adding another command to understand commits.
